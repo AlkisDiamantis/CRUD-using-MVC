@@ -32,10 +32,10 @@
 
 * Spring Boot - Back-End Framework used with the following dependencies:
 
-  -Spring Boot DevTools
-  -Spring Web MVC
-  -Spring Data JPA
-  -Tomcat - Application Server used
+  * Spring Boot DevTools
+  * Spring Web MVC
+  * Spring Data JPA
+  * Tomcat - Application Server used
 
 * JSP - Java Server Pages Technology
 
